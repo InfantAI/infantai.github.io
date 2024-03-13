@@ -1,1 +1,0 @@
-import{W as t,Z as e}from"./index-dfbb01d3.js";function s(r){return t.post({url:e.Orders.GetList,data:r})}function i(r){return t.post({url:e.Subscriber.Update,data:r})}function p(){return t.get({url:e.Subscriber.Get})}export{s as a,p as g,i as u};
